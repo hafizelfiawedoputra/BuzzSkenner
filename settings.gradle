@@ -1,0 +1,2 @@
+rootProject.name = "BINUS_Account1"
+include ':app'
